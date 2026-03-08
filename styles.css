@@ -78,3 +78,9 @@ body {
 .btn-success:hover {
     background-color: #556b2f;
 }
+
+footer {
+    background-color: #1b1b1b;
+    color: white;
+    margin-top: 60px;
+}
