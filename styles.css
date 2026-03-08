@@ -84,3 +84,27 @@ footer {
     color: white;
     margin-top: 60px;
 }
+
+.gallery-card {
+
+    overflow: hidden;
+
+    border-radius: 10px;
+
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+
+}
+
+
+.gallery-card img {
+
+    transition: transform 0.4s ease;
+
+}
+
+
+.gallery-card:hover img {
+
+    transform: scale(1.08);
+
+}
