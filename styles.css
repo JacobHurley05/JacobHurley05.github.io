@@ -68,3 +68,13 @@ body {
 .container {
     max-width: 1100px;
 }
+
+/* 1998 Jeep TJ Info Button */
+.btn-success {
+    background-color: #6b8e23;
+    border: none;
+}
+
+.btn-success:hover {
+    background-color: #556b2f;
+}
